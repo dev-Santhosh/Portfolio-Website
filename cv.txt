@@ -1,1 +1,7 @@
-This is my CV.
+Santhosh. Pinisetti
+Email :s4839975@gmail.com
+Contact : +918977186229
+Technical Skills:
+• Programming Languages: C, Python 
+• Packages: M.S. Word, M.S. Excel, M.S. Power Point 
+• Web Technologies: HTML, CSS, JavaScript 
